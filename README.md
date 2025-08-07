@@ -1,1 +1,1 @@
-### webmachine template (openai)
+### Reasoning-Machine (openai)
