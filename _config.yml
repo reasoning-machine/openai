@@ -27,7 +27,6 @@ lm:
   presence_penalty: 0.0
   frequency_penalty: 0.0
   temperature: 1.0
-  top_p: 0.95
 
 github_settings:
   owner: reasoning-machine

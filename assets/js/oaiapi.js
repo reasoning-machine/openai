@@ -57,7 +57,6 @@ self.onmessage = async function(event) {
             temperature: llmSettings.temperature || 1.0,
             frequency_penalty: llmSettings.frequency_penalty || 0.0,
             presence_penalty: llmSettings.presence_penalty || 0.0,
-            top_p: llmSettings.top_p || 0.9,
             seed: 246,
             stream: false
         };
